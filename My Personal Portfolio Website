@@ -5,10 +5,21 @@
 <title> This is my website </title>
 </head>
 <body>
-<h1> All About Me</h1>
+<h1> My Personal Portfolio</h1>
 <img src="https://vignette.wikia.nocookie.net/webarebears/images/f/f3/Cubs.png/revision/latest?cb=20160612202809"/>
 <p>
 My name is Michelle Koh. I am a student of Dunman High School.I am a Year 1 in Dunman High. </p>
 <p>
 Here’s our school website link <a href ="www.dhs.sg"> Dunman High School  </a>. </p>
+<br>
+<p>Here are the things I love to do the most : </p> 
+<ul>
+<li>Handicraft</li>
+<img src="https://i.ytimg.com/vi/B42O8UvkQyM/maxresdefault.jpg"/> 
+<li>Watching Videos</li>
+<li>Eating</li>
+</ul>
+</body>
+</html>
+
 
